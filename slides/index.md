@@ -1,10 +1,5 @@
+## FactoryGirlをFixturesで置き換えた話
 
-# Rails Fixtures
+Ginzarb 第13回
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+@y-yagi
