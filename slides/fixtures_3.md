@@ -1,4 +1,4 @@
-### fixtureについて(3)
+### Fixturesについて(3)
 
 * fixturesにはERB記法が使える
 

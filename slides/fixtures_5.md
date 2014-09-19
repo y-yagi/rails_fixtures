@@ -1,4 +1,4 @@
-### fixtureについて(5)
+### Fixturesについて(5)
 
 * アソシエーションはラベル名で定義出来る
 
@@ -6,7 +6,6 @@
 # authros.yml
 hyuki:
   name: 結城浩
-
 matz:
   name: まつもとゆきひろ
 ```
@@ -15,7 +14,6 @@ matz:
 # tags.yml
 programming:
   name: プログラミング
-
 ruby:
   name: ruby
 ```
@@ -23,15 +21,12 @@ ruby:
 ```
 コードの未来:
   name: コードの未来
-  price: 2800
   published_at: 2012-05-12
   author: matz
   tags: programming, ruby
 
-
 秘密の国のアリス:
   name: 秘密の国のアリス
-  price: 3240
   published_at: 2003-09-30
   author: hyuki
 ```

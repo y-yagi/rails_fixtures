@@ -1,4 +1,4 @@
-### fixtureについて(2)
+### Fixturesについて(2)
 
 * テスト環境ではテスト実行前に自動でDBに格納される
   * テスト終了時にrollback. delete+insertにしたい場合は、場合は、 use_transactional_fixturesにfalseを設定
