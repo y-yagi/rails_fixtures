@@ -1,4 +1,4 @@
-### fixtureについて(1)
+### Fixturesについて(1)
 
 *  Fixtures are a way of organizing data that you want to test against; in short, sample data.
 *  YAMLファイル
