@@ -26,5 +26,5 @@ miyawaki_honten:
   email: miyawaki@exmaple.com
 ```
 
-上記の場合、"DEFAULT"のデータは出来ないが、"MIYAWAKI_GROUP"のデータは出来てしまう
+ただ、上記の場合、"DEFAULT"のデータは出来ないが、"MIYAWAKI_GROUP"のデータは出来てしまう
 

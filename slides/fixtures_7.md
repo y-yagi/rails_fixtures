@@ -1,9 +1,14 @@
 ### fixtureについて(7)
 
-その他細かいところ
+* ラベル名で値の定義が出来る
 
-* primary keyは自動採番してくれる
-* TimeStamp関係のカラムを勝手に埋めてくれる
-  * +created_at+, +created_on+, +updated_at+, +updated_on+
-* ActiveRecordのvalidation/callbackは実施されない
+```
+matz:
+  name: まつもとゆきひろ is $LABEL
+
+test:
+  name: $LABEL
+```
+
+上記の場合nameが"test"というデータと、"まつもとゆきひろ is matz"というデータが作成される
 
