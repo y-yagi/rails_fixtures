@@ -2,7 +2,7 @@
 
 * fixturesにはERB記法が使える
 
-```ruby
+```yaml
 # tags.yml
 ruby:
   name: ruby

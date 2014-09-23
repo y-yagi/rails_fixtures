@@ -3,7 +3,7 @@
 * YAMLのマージ機能も使える
 * "DEFAULTS"というラベルの値は無視される
 
-```
+```yaml
 DEFAULTS: &DEFAULTS
   closed: false
 

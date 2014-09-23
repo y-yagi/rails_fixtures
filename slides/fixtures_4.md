@@ -12,7 +12,7 @@
 
 ```
 
-```
+```yaml
  photo:
    name: kitten.png
    sha: <%= file_sha 'files/kitten.png' %>
