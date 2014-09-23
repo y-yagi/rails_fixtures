@@ -5,7 +5,7 @@
 *  モデル毎に1ファイル
 *  格納先は "<your-rails-app>/test/fixtures/" (ActiveSupport::TestCase.fixture_path で変更可能)
 
-```ruby
+```yaml
 # web_sites.yml
   rubyonrails:
     id: 1     # ID自動生成してくれるので、書かないでもOK

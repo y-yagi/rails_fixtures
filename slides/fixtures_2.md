@@ -5,7 +5,7 @@
 * データアクセス用のメソッドも用意されている
   * use_instantiated_fixtures を設定することで、インスタンスの生成も行われる
 
-```ruby
+```yaml
 # web_sites.yml
   rubyonrails:
     id: 1
