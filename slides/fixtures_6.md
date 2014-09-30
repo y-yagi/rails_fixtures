@@ -4,6 +4,7 @@
 * "DEFAULTS"というラベルの値は無視される
 
 ```yaml
+# stores.yml
 DEFAULTS: &DEFAULTS
   closed: false
 
@@ -22,5 +23,5 @@ miyawaki_honten:
   address: どこか2
 ```
 
-ただ、上記の場合、"DEFAULT"のデータは出来ないが、"MIYAWAKI_GROUP"のデータは出来てしまう
+上記例の場合、"DEFAULT"のデータは出来ないが、"MIYAWAKI_GROUP"のデータは出来てしまう
 

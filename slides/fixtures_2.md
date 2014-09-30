@@ -1,7 +1,7 @@
 ### Fixturesについて(2)
 
-* テスト環境ではテスト実行前に自動でDBに格納される
-  * テスト終了時にrollback. delete+insertにしたい場合は、場合は、 use_transactional_fixturesにfalseを設定
+* テスト環境では、テスト実行前に自動でDBに格納される
+  * delete / insert
 * データアクセス用のメソッドも用意されている
   * use_instantiated_fixtures を設定することで、インスタンスの生成も行われる
 

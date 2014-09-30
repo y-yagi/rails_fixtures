@@ -13,6 +13,7 @@ matz:
 ```
 
 ```yaml
+# books.yml
 コードの未来:
   name: コードの未来
   price: 2800
