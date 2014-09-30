@@ -19,6 +19,7 @@ ruby:
 ```
 
 ```yaml
+# books.yml
 コードの未来:
   name: コードの未来
   published_at: 2012-05-12

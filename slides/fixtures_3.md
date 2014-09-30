@@ -1,6 +1,6 @@
 ### Fixturesについて(3)
 
-* fixturesにはERB記法が使える
+* erb記法が使える
 
 ```yaml
 # tags.yml
